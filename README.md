@@ -92,20 +92,20 @@ Al hacer los retos anteriores, nos dan esta flag.
 ---
 # W10
 ## Challenge
-- [index](#FLAG{sanitize_input})
-- [Commits](#FLAG{ALWAYS_CHECK_COMMITS})
-- [SQL Injection](#FLAG{Update_Plugins})
-- [API_FLAG](#FLAG{Never_public_your_secret})
-- [cUrlEr v0.1](#FLAG{#FLAG{SSRF_PARA_TOD@S_XD}})
-- [System 1](#FLAGS%20System%20Access)
-- [System 2](#FLAGS%20System%20Access)
-- [System 3](#FLAGS%20System%20Access)
-- [System 4](#FLAGS%20System%20Access)
-- [System 5](#FLAGS%20System%20Access)
-- [Todo List](#FLAG{El_Buen_OSINT_Naito})
-- [Sticky Notes](#FLAG{Sticky_Notes_FTW})
-- [BONUS 1 (Admin Password)](#flag{New_Administrator})
-- [BONUS 2 (RDP)](#flag{Otra_Entrada})
+- index
+- Commits
+- SQL Injection
+- API_FLAG
+- cUrlEr v0.1
+- System 1
+- System 2
+- System 3
+- System 4
+- System 5
+- Todo List
+- Sticky Notes
+- BONUS 1 (Admin Password)
+- BONUS 2 (RDP)
 ---
 ## Get VM IP
 Hacemos un escaneo en todo el segmento.

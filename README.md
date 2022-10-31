@@ -92,20 +92,20 @@ Al hacer los retos anteriores, nos dan esta flag.
 ---
 # W10
 ## Challenge
-- [index](ITESO%20O2022/ITESO%20CTF/Writeup#FLAG{sanitize_input})
-- [Commits](ITESO%20O2022/ITESO%20CTF/Writeup#FLAG{ALWAYS_CHECK_COMMITS})
-- [SQL Injection](ITESO%20O2022/ITESO%20CTF/Writeup#FLAG{Update_Plugins})
-- [API_FLAG](ITESO%20O2022/ITESO%20CTF/Writeup#FLAG{Never_public_your_secret})
-- [cUrlEr v0.1](ITESO%20O2022/ITESO%20CTF/Writeup#FLAG{#FLAG{SSRF_PARA_TOD@S_XD}})
-- [System 1](ITESO%20O2022/ITESO%20CTF/Writeup#FLAGS%20System%20Access)
-- [System 2](ITESO%20O2022/ITESO%20CTF/Writeup#FLAGS%20System%20Access)
-- [System 3](ITESO%20O2022/ITESO%20CTF/Writeup#FLAGS%20System%20Access)
-- [System 4](ITESO%20O2022/ITESO%20CTF/Writeup#FLAGS%20System%20Access)
-- [System 5](ITESO%20O2022/ITESO%20CTF/Writeup#FLAGS%20System%20Access)
-- [Todo List](ITESO%20O2022/ITESO%20CTF/Writeup#FLAG{El_Buen_OSINT_Naito})
-- [Sticky Notes](ITESO%20O2022/ITESO%20CTF/Writeup#FLAG{Sticky_Notes_FTW})
-- [BONUS 1 (Admin Password)](ITESO%20O2022/ITESO%20CTF/Writeup#flag{New_Administrator})
-- [BONUS 2 (RDP)](ITESO%20O2022/ITESO%20CTF/Writeup#flag{Otra_Entrada})
+- [index](#FLAG{sanitize_input})
+- [Commits](#FLAG{ALWAYS_CHECK_COMMITS})
+- [SQL Injection](#FLAG{Update_Plugins})
+- [API_FLAG](#FLAG{Never_public_your_secret})
+- [cUrlEr v0.1](#FLAG{#FLAG{SSRF_PARA_TOD@S_XD}})
+- [System 1](#FLAGS%20System%20Access)
+- [System 2](#FLAGS%20System%20Access)
+- [System 3](#FLAGS%20System%20Access)
+- [System 4](#FLAGS%20System%20Access)
+- [System 5](#FLAGS%20System%20Access)
+- [Todo List](#FLAG{El_Buen_OSINT_Naito})
+- [Sticky Notes](#FLAG{Sticky_Notes_FTW})
+- [BONUS 1 (Admin Password)](#flag{New_Administrator})
+- [BONUS 2 (RDP)](#flag{Otra_Entrada})
 ---
 ## Get VM IP
 Hacemos un escaneo en todo el segmento.
@@ -171,7 +171,7 @@ Viendo el `FLAG{ALWAYS_CHECK_COMMITS}` commit obtenemos la API key.
 
 ![PNG](/images/Pasted%20image%2020221031133816.png)
 
-Y en el `README.md` vemos como podemos registrar y hacer login, mandando como parámetros el `username` y `password`.
+Y en el `` vemos como podemos registrar y hacer login, mandando como parámetros el `username` y `password`.
 
 ![PNG](/images/Pasted%20image%2020221031134021.png)
 En nuestro `nmap` vimos el puerto 5000 abierto, y con la pista del reto como texto.
